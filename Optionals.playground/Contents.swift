@@ -33,7 +33,7 @@ firstItem(fruits)
 if let fruit = firstItem(fruits) {
     print("The first fruit is \(fruit)")
 } else {
-    print("There are no fruits!")
+    print("There are no fruits!!")
 }
 
 
